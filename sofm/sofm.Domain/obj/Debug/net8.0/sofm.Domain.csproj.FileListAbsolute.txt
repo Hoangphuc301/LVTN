@@ -1,0 +1,12 @@
+E:\Code_CSharp\Luan_Van\sofm\sofm.Domain\bin\Debug\net8.0\sofm.Domain.deps.json
+E:\Code_CSharp\Luan_Van\sofm\sofm.Domain\bin\Debug\net8.0\sofm.Domain.dll
+E:\Code_CSharp\Luan_Van\sofm\sofm.Domain\bin\Debug\net8.0\sofm.Domain.pdb
+E:\Code_CSharp\Luan_Van\sofm\sofm.Domain\obj\Debug\net8.0\sofm.Domain.csproj.AssemblyReference.cache
+E:\Code_CSharp\Luan_Van\sofm\sofm.Domain\obj\Debug\net8.0\sofm.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\Code_CSharp\Luan_Van\sofm\sofm.Domain\obj\Debug\net8.0\sofm.Domain.AssemblyInfoInputs.cache
+E:\Code_CSharp\Luan_Van\sofm\sofm.Domain\obj\Debug\net8.0\sofm.Domain.AssemblyInfo.cs
+E:\Code_CSharp\Luan_Van\sofm\sofm.Domain\obj\Debug\net8.0\sofm.Domain.csproj.CoreCompileInputs.cache
+E:\Code_CSharp\Luan_Van\sofm\sofm.Domain\obj\Debug\net8.0\sofm.Domain.dll
+E:\Code_CSharp\Luan_Van\sofm\sofm.Domain\obj\Debug\net8.0\refint\sofm.Domain.dll
+E:\Code_CSharp\Luan_Van\sofm\sofm.Domain\obj\Debug\net8.0\sofm.Domain.pdb
+E:\Code_CSharp\Luan_Van\sofm\sofm.Domain\obj\Debug\net8.0\ref\sofm.Domain.dll

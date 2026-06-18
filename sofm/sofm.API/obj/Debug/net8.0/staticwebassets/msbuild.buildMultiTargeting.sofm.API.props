@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\sofm.API.props" />
+</Project>

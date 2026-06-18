@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ddxdspPeEX/BTiJYIxhQPPE2ZJNIfwx72SUNcPbiTIUHxkVW5lZ1MyU+Ab+EkaldH6NY3wMglMdMPJ4dCGFKHA==",
+  "success": true,
+  "projectFilePath": "E:\\Code_CSharp\\Luan_Van\\sofm\\sofm.Domain\\sofm.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\8.0.27\\microsoft.entityframeworkcore.abstractions.8.0.27.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,15 @@
+E:\Code_CSharp\Luan_Van\sofm\sofm.Application\bin\Debug\net8.0\sofm.Application.deps.json
+E:\Code_CSharp\Luan_Van\sofm\sofm.Application\bin\Debug\net8.0\sofm.Application.dll
+E:\Code_CSharp\Luan_Van\sofm\sofm.Application\bin\Debug\net8.0\sofm.Application.pdb
+E:\Code_CSharp\Luan_Van\sofm\sofm.Application\obj\Debug\net8.0\sofm.Application.csproj.AssemblyReference.cache
+E:\Code_CSharp\Luan_Van\sofm\sofm.Application\obj\Debug\net8.0\sofm.Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\Code_CSharp\Luan_Van\sofm\sofm.Application\obj\Debug\net8.0\sofm.Application.AssemblyInfoInputs.cache
+E:\Code_CSharp\Luan_Van\sofm\sofm.Application\obj\Debug\net8.0\sofm.Application.AssemblyInfo.cs
+E:\Code_CSharp\Luan_Van\sofm\sofm.Application\obj\Debug\net8.0\sofm.Application.csproj.CoreCompileInputs.cache
+E:\Code_CSharp\Luan_Van\sofm\sofm.Application\obj\Debug\net8.0\sofm.Application.dll
+E:\Code_CSharp\Luan_Van\sofm\sofm.Application\obj\Debug\net8.0\refint\sofm.Application.dll
+E:\Code_CSharp\Luan_Van\sofm\sofm.Application\obj\Debug\net8.0\sofm.Application.pdb
+E:\Code_CSharp\Luan_Van\sofm\sofm.Application\obj\Debug\net8.0\ref\sofm.Application.dll
+E:\Code_CSharp\Luan_Van\sofm\sofm.Application\bin\Debug\net8.0\sofm.Domain.dll
+E:\Code_CSharp\Luan_Van\sofm\sofm.Application\bin\Debug\net8.0\sofm.Domain.pdb
+E:\Code_CSharp\Luan_Van\sofm\sofm.Application\obj\Debug\net8.0\sofm.App.ECCB56BA.Up2Date

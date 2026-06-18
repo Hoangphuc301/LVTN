@@ -1,0 +1,108 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Code_CSharp\\Luan_Van\\sofm\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{612CD972-C682-43C7-B7BF-DA375F62F319}|sofm.Application\\sofm.Application.csproj|e:\\code_csharp\\luan_van\\sofm\\sofm.application\\features\\orders\\commands\\createorder\\createordercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{612CD972-C682-43C7-B7BF-DA375F62F319}|sofm.Application\\sofm.Application.csproj|solutionrelative:sofm.application\\features\\orders\\commands\\createorder\\createordercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{781E42E0-379D-4065-884A-717537104F54}|sofm.Infrastructure\\sofm.Infrastructure.csproj|e:\\code_csharp\\luan_van\\sofm\\sofm.infrastructure\\persistence\\repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{781E42E0-379D-4065-884A-717537104F54}|sofm.Infrastructure\\sofm.Infrastructure.csproj|solutionrelative:sofm.infrastructure\\persistence\\repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF84EB55-A528-47D6-9EE0-E5862DFB188B}|sofm.Domain\\sofm.Domain.csproj|e:\\code_csharp\\luan_van\\sofm\\sofm.domain\\interfaces\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF84EB55-A528-47D6-9EE0-E5862DFB188B}|sofm.Domain\\sofm.Domain.csproj|solutionrelative:sofm.domain\\interfaces\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8290695A-516C-499D-BCF4-E6CE9E254AF5}|sofm.API\\sofm.API.csproj|e:\\code_csharp\\luan_van\\sofm\\sofm.api\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8290695A-516C-499D-BCF4-E6CE9E254AF5}|sofm.API\\sofm.API.csproj|solutionrelative:sofm.api\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{612CD972-C682-43C7-B7BF-DA375F62F319}|sofm.Application\\sofm.Application.csproj|e:\\code_csharp\\luan_van\\sofm\\sofm.application\\features\\orders\\commands\\createorder\\createordercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{612CD972-C682-43C7-B7BF-DA375F62F319}|sofm.Application\\sofm.Application.csproj|solutionrelative:sofm.application\\features\\orders\\commands\\createorder\\createordercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "E:\\Code_CSharp\\Luan_Van\\sofm\\sofm.API\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "sofm.API\\Controllers\\OrderController.cs",
+              "ToolTip": "E:\\Code_CSharp\\Luan_Van\\sofm\\sofm.API\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "sofm.API\\Controllers\\OrderController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-17T14:56:31.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CreateOrderCommand.cs",
+              "DocumentMoniker": "E:\\Code_CSharp\\Luan_Van\\sofm\\sofm.Application\\Features\\Orders\\Commands\\CreateOrder\\CreateOrderCommand.cs",
+              "RelativeDocumentMoniker": "sofm.Application\\Features\\Orders\\Commands\\CreateOrder\\CreateOrderCommand.cs",
+              "ToolTip": "E:\\Code_CSharp\\Luan_Van\\sofm\\sofm.Application\\Features\\Orders\\Commands\\CreateOrder\\CreateOrderCommand.cs",
+              "RelativeToolTip": "sofm.Application\\Features\\Orders\\Commands\\CreateOrder\\CreateOrderCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-17T15:07:28.309Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CreateOrderCommandHandler.cs",
+              "DocumentMoniker": "E:\\Code_CSharp\\Luan_Van\\sofm\\sofm.Application\\Features\\Orders\\Commands\\CreateOrder\\CreateOrderCommandHandler.cs",
+              "RelativeDocumentMoniker": "sofm.Application\\Features\\Orders\\Commands\\CreateOrder\\CreateOrderCommandHandler.cs",
+              "ToolTip": "E:\\Code_CSharp\\Luan_Van\\sofm\\sofm.Application\\Features\\Orders\\Commands\\CreateOrder\\CreateOrderCommandHandler.cs",
+              "RelativeToolTip": "sofm.Application\\Features\\Orders\\Commands\\CreateOrder\\CreateOrderCommandHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAUwCMAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-17T15:06:10.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrderRepository.cs",
+              "DocumentMoniker": "E:\\Code_CSharp\\Luan_Van\\sofm\\sofm.Infrastructure\\Persistence\\Repositories\\OrderRepository.cs",
+              "RelativeDocumentMoniker": "sofm.Infrastructure\\Persistence\\Repositories\\OrderRepository.cs",
+              "ToolTip": "E:\\Code_CSharp\\Luan_Van\\sofm\\sofm.Infrastructure\\Persistence\\Repositories\\OrderRepository.cs",
+              "RelativeToolTip": "sofm.Infrastructure\\Persistence\\Repositories\\OrderRepository.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-17T14:45:10.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IOrderRepository.cs",
+              "DocumentMoniker": "E:\\Code_CSharp\\Luan_Van\\sofm\\sofm.Domain\\Interfaces\\IOrderRepository.cs",
+              "RelativeDocumentMoniker": "sofm.Domain\\Interfaces\\IOrderRepository.cs",
+              "ToolTip": "E:\\Code_CSharp\\Luan_Van\\sofm\\sofm.Domain\\Interfaces\\IOrderRepository.cs",
+              "RelativeToolTip": "sofm.Domain\\Interfaces\\IOrderRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-17T14:44:04.889Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
