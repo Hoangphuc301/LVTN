@@ -13,3 +13,4 @@ E:\Code_CSharp\Luan_Van\sofm\sofm.Application\obj\Debug\net8.0\ref\sofm.Applicat
 E:\Code_CSharp\Luan_Van\sofm\sofm.Application\bin\Debug\net8.0\sofm.Domain.dll
 E:\Code_CSharp\Luan_Van\sofm\sofm.Application\bin\Debug\net8.0\sofm.Domain.pdb
 E:\Code_CSharp\Luan_Van\sofm\sofm.Application\obj\Debug\net8.0\sofm.App.ECCB56BA.Up2Date
+E:\Code_CSharp\Luan_Van\sofm\sofm.Application\obj\Debug\net8.0\sofm.Application.sourcelink.json

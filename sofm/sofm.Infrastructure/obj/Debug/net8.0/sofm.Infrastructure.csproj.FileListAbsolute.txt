@@ -17,3 +17,4 @@ E:\Code_CSharp\Luan_Van\sofm\sofm.Infrastructure\bin\Debug\net8.0\sofm.Domain.dl
 E:\Code_CSharp\Luan_Van\sofm\sofm.Infrastructure\bin\Debug\net8.0\sofm.Application.pdb
 E:\Code_CSharp\Luan_Van\sofm\sofm.Infrastructure\bin\Debug\net8.0\sofm.Domain.pdb
 E:\Code_CSharp\Luan_Van\sofm\sofm.Infrastructure\obj\Debug\net8.0\sofm.Inf.45C84873.Up2Date
+E:\Code_CSharp\Luan_Van\sofm\sofm.Infrastructure\obj\Debug\net8.0\sofm.Infrastructure.sourcelink.json

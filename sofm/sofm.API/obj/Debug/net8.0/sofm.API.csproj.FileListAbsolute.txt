@@ -156,3 +156,4 @@ E:\Code_CSharp\Luan_Van\sofm\sofm.API\bin\Debug\net8.0\sofm.Infrastructure.dll
 E:\Code_CSharp\Luan_Van\sofm\sofm.API\bin\Debug\net8.0\sofm.Application.pdb
 E:\Code_CSharp\Luan_Van\sofm\sofm.API\bin\Debug\net8.0\sofm.Infrastructure.pdb
 E:\Code_CSharp\Luan_Van\sofm\sofm.API\bin\Debug\net8.0\sofm.Domain.pdb
+E:\Code_CSharp\Luan_Van\sofm\sofm.API\obj\Debug\net8.0\sofm.API.sourcelink.json

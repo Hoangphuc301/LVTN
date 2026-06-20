@@ -10,3 +10,4 @@ E:\Code_CSharp\Luan_Van\sofm\sofm.Domain\obj\Debug\net8.0\sofm.Domain.dll
 E:\Code_CSharp\Luan_Van\sofm\sofm.Domain\obj\Debug\net8.0\refint\sofm.Domain.dll
 E:\Code_CSharp\Luan_Van\sofm\sofm.Domain\obj\Debug\net8.0\sofm.Domain.pdb
 E:\Code_CSharp\Luan_Van\sofm\sofm.Domain\obj\Debug\net8.0\ref\sofm.Domain.dll
+E:\Code_CSharp\Luan_Van\sofm\sofm.Domain\obj\Debug\net8.0\sofm.Domain.sourcelink.json

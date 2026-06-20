@@ -31,6 +31,8 @@ import { SizeAdmin } from "@/features/admin/sizeAdmin/Pages/SizeAdminPage";
 import { SizeCreateAdmin } from "@/features/admin/sizeAdmin/Pages/SizeCreatePage";
 import { SizeEditAdmin } from "@/features/admin/sizeAdmin/Pages/SizeEditPage";
 import { OrderAdmin } from "@/features/admin/orderAdmin/Pages/OrderAdminPage";
+import { OrderDetailAdmin } from "@/features/admin/orderAdmin/Pages/OrderDetailPage";
+import { UpdateOrderStatusAdmin } from "@/features/admin/orderAdmin/Pages/UpdateOrderStatusPage";
 import { ShippingAdmin } from "@/features/admin/ShippingAdmin/Pages/ShippingAdminPage";
 import { VoucherAdmin} from "@/features/admin/voucherAdmin/Pages/VoucherAdminPage";
 import { UserAdmin } from "@/features/admin/userAdmin/Pages/UserAdminPage";
@@ -77,6 +79,8 @@ export const AppRoutes = () => (
         <Route path="sizes/create" element={<SizeCreateAdmin />} />
         <Route path="sizes/edit/:id" element={<SizeEditAdmin />} />
         <Route path="orders" element={<OrderAdmin />} />
+        <Route path="/admin/orders/:id" element={<OrderDetailAdmin />}/>
+        <Route path="/admin/orders/:id/edit" element={<UpdateOrderStatusAdmin />}/>
         <Route path="shipping" element={<ShippingAdmin />} />
         <Route path="vouchers" element={<VoucherAdmin />} />
         <Route path="users" element={<UserAdmin />} />

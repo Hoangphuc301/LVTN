@@ -1,8 +1,32 @@
 export interface Order {
-  id: string;
-  customerName: string;
-  customerEmail: string;
-  orderDate: string;
-  totalPrice: number;
-  status: 'Đang xử lý' | 'Đang giao hàng' | 'Đã hoàn thành' | 'Đã hủy';
+    maDH: number;
+    tenKhach: string;
+    sdt: string;
+    tongTienCuoi: number;
+    trangThai: string;
+    ngayDat: string;
+}
+
+export interface OrderDetail {
+    maDH: number;
+    tenKhach: string;
+    sdt: string;
+    diaChi: string;
+    tongTien: number;
+    phiShip: number;
+    tongTienCuoi: number;
+    trangThai: string;
+    ngayDat: string;
+
+    items: OrderItem[];
+}
+
+export interface OrderItem {
+    maCTSP: number;
+    tenSP: string;
+    mau: string;
+    size: string;
+    soLuong: number;
+    donGia: number;
+    thanhTien: number;
 }

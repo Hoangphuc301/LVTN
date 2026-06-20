@@ -49,5 +49,54 @@ namespace sofm.Infrastructure.Persistence.Repositories
         {
             await _context.SaveChangesAsync();
         }
+
+        public async Task<List<DonHang>> GetOrdersAsync()
+        {
+            return await _context.DonHangs
+                .Include(x => x.MaKhNavigation)
+                .OrderByDescending(x => x.NgayDat)
+                .ToListAsync();
+        }
+
+        public async Task<DonHang?> GetOrderDetailAsync(int maDH)
+        {
+            return await _context.DonHangs
+                .Include(x => x.MaKhNavigation)
+                .Include(x => x.ChiTietDonHangs)
+                    .ThenInclude(x => x.MaCtspNavigation)
+                        .ThenInclude(x => x.MaSpNavigation)
+                .Include(x => x.ChiTietDonHangs)
+                    .ThenInclude(x => x.MaCtspNavigation)
+                        .ThenInclude(x => x.MaMauNavigation)
+                .Include(x => x.ChiTietDonHangs)
+                    .ThenInclude(x => x.MaCtspNavigation)
+                        .ThenInclude(x => x.MaSizeNavigation)
+                .FirstOrDefaultAsync(x => x.MaDh == maDH);
+        }
+
+        public async Task<DonHang?> GetOrderByIdAsync(int maDH)
+        {
+            return await _context.DonHangs.FirstOrDefaultAsync(x => x.MaDh == maDH);
+        }
+
+        public async Task UpdateOrderAsync(DonHang donHang)
+        {
+            _context.DonHangs.Update(donHang);
+            await _context.SaveChangesAsync();
+        }
+
+        public async Task AddOrderHistoryAsync(LichSuDonHang lichSu)
+        {
+            _context.LichSuDonHangs.Add(lichSu);
+            await _context.SaveChangesAsync();
+        }
+
+        public async Task<List<LichSuDonHang>> GetOrderHistoryAsync(int maDH)
+        {
+            return await _context.LichSuDonHangs
+                .Where(x => x.MaDh == maDH)
+                .OrderBy(x => x.ThoiGian)
+                .ToListAsync();
+        }
     }
 }
