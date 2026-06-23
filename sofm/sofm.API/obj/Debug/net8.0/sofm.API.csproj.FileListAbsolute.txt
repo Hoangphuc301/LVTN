@@ -157,3 +157,11 @@ E:\Code_CSharp\Luan_Van\sofm\sofm.API\bin\Debug\net8.0\sofm.Application.pdb
 E:\Code_CSharp\Luan_Van\sofm\sofm.API\bin\Debug\net8.0\sofm.Infrastructure.pdb
 E:\Code_CSharp\Luan_Van\sofm\sofm.API\bin\Debug\net8.0\sofm.Domain.pdb
 E:\Code_CSharp\Luan_Van\sofm\sofm.API\obj\Debug\net8.0\sofm.API.sourcelink.json
+E:\Code_CSharp\Luan_Van\sofm\sofm.API\bin\Debug\net8.0\BCrypt-Net-Next.dll
+E:\Code_CSharp\Luan_Van\sofm\sofm.API\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+E:\Code_CSharp\Luan_Van\sofm\sofm.API\bin\Debug\net8.0\MailKit.dll
+E:\Code_CSharp\Luan_Van\sofm\sofm.API\bin\Debug\net8.0\MimeKit.dll
+E:\Code_CSharp\Luan_Van\sofm\sofm.API\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
+E:\Code_CSharp\Luan_Van\sofm\sofm.API\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+E:\Code_CSharp\Luan_Van\sofm\sofm.API\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\Code_CSharp\Luan_Van\sofm\sofm.API\bin\Debug\net8.0\Microsoft.Bcl.Cryptography.dll

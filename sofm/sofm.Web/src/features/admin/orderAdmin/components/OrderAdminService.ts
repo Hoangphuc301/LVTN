@@ -15,13 +15,21 @@ export const getOrderDetail = async (
     );
 };
 
+export const getOrderHistory = async (
+    maDH: number
+) => {
+    return await axios.get(
+        `${API_URL}/${maDH}/history`
+    );
+};
+
 export const updateOrderStatus = async (
     maDH: number,
     trangThai: string,
     moTa?: string
 ) => {
     return await axios.put(
-        `${API_URL}/status`,
+        `${API_URL}/${maDH}/status`,
         {
             maDH,
             trangThai,

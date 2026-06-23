@@ -7,6 +7,12 @@ export interface Order {
     ngayDat: string;
 }
 
+export interface OrderHistory {
+    trangThai: string;
+    moTa: string;
+    thoiGian: string;
+}
+
 export interface OrderDetail {
     maDH: number;
     tenKhach: string;

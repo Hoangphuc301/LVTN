@@ -433,6 +433,8 @@ public partial class SofmDbContext : DbContext
             entity.Property(e => e.Email)
                 .HasMaxLength(100)
                 .IsUnicode(false);
+            entity.Property(e => e.TenNguoiDung)
+                .HasMaxLength(100);
             entity.Property(e => e.EmailVerified).HasDefaultValue(false);
             entity.Property(e => e.MatKhau).HasMaxLength(255);
             entity.Property(e => e.NgayCapNhat)

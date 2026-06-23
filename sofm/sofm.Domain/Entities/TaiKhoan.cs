@@ -11,6 +11,8 @@ public partial class TaiKhoan
 
     public string MatKhau { get; set; } = null!;
 
+    public string? TenNguoiDung { get; set; }
+
     public bool? TrangThai { get; set; }
 
     public bool? EmailVerified { get; set; }
