@@ -44,6 +44,7 @@ namespace sofm.Infrastructure
             services.AddScoped<IPasswordHasher,PasswordHasherRepository>();
             services.AddScoped<ICustomerRepository,CustomerRepository>();
             services.AddScoped<IJwtService, JwtServiceRepository>();
+            services.AddScoped<IAddressRepository, AddressRepository>();
             return services;
         }
     }

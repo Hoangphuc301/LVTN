@@ -1,20 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "E:\\Code_CSharp\\Luan_Van\\sofm\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{781E42E0-379D-4065-884A-717537104F54}|sofm.Infrastructure\\sofm.Infrastructure.csproj|e:\\code_csharp\\luan_van\\sofm\\sofm.infrastructure\\persistence\\repositories\\accountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{781E42E0-379D-4065-884A-717537104F54}|sofm.Infrastructure\\sofm.Infrastructure.csproj|solutionrelative:sofm.infrastructure\\persistence\\repositories\\accountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CF84EB55-A528-47D6-9EE0-E5862DFB188B}|sofm.Domain\\sofm.Domain.csproj|e:\\code_csharp\\luan_van\\sofm\\sofm.domain\\interfaces\\iaccountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CF84EB55-A528-47D6-9EE0-E5862DFB188B}|sofm.Domain\\sofm.Domain.csproj|solutionrelative:sofm.domain\\interfaces\\iaccountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8290695A-516C-499D-BCF4-E6CE9E254AF5}|sofm.API\\sofm.API.csproj|e:\\code_csharp\\luan_van\\sofm\\sofm.api\\controllers\\forgotpasswordcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8290695A-516C-499D-BCF4-E6CE9E254AF5}|sofm.API\\sofm.API.csproj|solutionrelative:sofm.api\\controllers\\forgotpasswordcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -22,50 +9,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ForgotPasswordController.cs",
-              "DocumentMoniker": "E:\\Code_CSharp\\Luan_Van\\sofm\\sofm.API\\Controllers\\ForgotPasswordController.cs",
-              "RelativeDocumentMoniker": "sofm.API\\Controllers\\ForgotPasswordController.cs",
-              "ToolTip": "E:\\Code_CSharp\\Luan_Van\\sofm\\sofm.API\\Controllers\\ForgotPasswordController.cs",
-              "RelativeToolTip": "sofm.API\\Controllers\\ForgotPasswordController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-23T13:41:58.047Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "AccountRepository.cs",
-              "DocumentMoniker": "E:\\Code_CSharp\\Luan_Van\\sofm\\sofm.Infrastructure\\Persistence\\Repositories\\AccountRepository.cs",
-              "RelativeDocumentMoniker": "sofm.Infrastructure\\Persistence\\Repositories\\AccountRepository.cs",
-              "ToolTip": "E:\\Code_CSharp\\Luan_Van\\sofm\\sofm.Infrastructure\\Persistence\\Repositories\\AccountRepository.cs",
-              "RelativeToolTip": "sofm.Infrastructure\\Persistence\\Repositories\\AccountRepository.cs",
-              "ViewState": "AQIAACQAAAAAAAAAAAAcwEgAAABRAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-23T13:19:23.774Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "IAccountRepository.cs",
-              "DocumentMoniker": "E:\\Code_CSharp\\Luan_Van\\sofm\\sofm.Domain\\Interfaces\\IAccountRepository.cs",
-              "RelativeDocumentMoniker": "sofm.Domain\\Interfaces\\IAccountRepository.cs",
-              "ToolTip": "E:\\Code_CSharp\\Luan_Van\\sofm\\sofm.Domain\\Interfaces\\IAccountRepository.cs",
-              "RelativeToolTip": "sofm.Domain\\Interfaces\\IAccountRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-23T13:16:35.349Z",
-              "EditorCaption": ""
             }
           ]
         }

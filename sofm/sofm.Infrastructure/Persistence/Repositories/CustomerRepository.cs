@@ -1,4 +1,5 @@
-﻿using sofm.Domain.Entities;
+﻿using Microsoft.EntityFrameworkCore;
+using sofm.Domain.Entities;
 using sofm.Domain.Interfaces;
 using sofm.Infrastructure.Persistence.Data;
 
@@ -21,6 +22,14 @@ namespace sofm.Infrastructure.Persistence.Repositories
         public async Task SaveChangesAsync()
         {
             await _context.SaveChangesAsync();
+        }
+
+        public async Task<KhachHang?> GetByMaTKAsync(int maTK)
+        {
+            return await _context.KhachHangs
+                .Include(x => x.MaTkNavigation)
+                .Include(x => x.DiaChis)
+                .FirstOrDefaultAsync(x => x.MaTk == maTK);
         }
     }
 }

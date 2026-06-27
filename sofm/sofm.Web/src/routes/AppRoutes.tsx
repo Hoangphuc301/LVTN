@@ -5,6 +5,10 @@ import { CheckoutPage } from "@/features/user/checkout/Pages/CheckOutPage";
 import { OrderSuccessPage } from "@/features/user/checkout/Pages/OrderSuccessPage";
 import { MainLayout } from "@/components/layout/MainLayout";
 import { LoginPage } from "@/features/user/login/Pages/LoginPage";
+import { ProfilePage } from "@/features/user/profile/Pages/ProfilePage";
+import { AddressPage } from "@/features/user/profile/Pages/AddressPage";
+import { OrderPage } from "@/features/user/profile/Pages/OrderPage";
+import { PasswordPage } from "@/features/user/profile/Pages/ChangePasswordPage";
 import { RegisterPage } from "@/features/user/register/Pages/RegisterPage";
 import { ProductPage } from "@/features/user/product/Pages/ProductPage";
 import { ProductDetailPage } from "@/features/user/product/Pages/ProductDetailPage";
@@ -47,6 +51,10 @@ export const AppRoutes = () => (
         <Route path="checkout" element={<CheckoutPage />} />
         <Route path="/order-success"element={<OrderSuccessPage />}/>
         <Route path="login" element={<LoginPage />} />
+        <Route path="profile" element={<ProfilePage />} />
+        <Route path="/profile/address" element={<AddressPage />} />
+        <Route path="/profile/orders" element={<OrderPage />} />
+        <Route path="/profile/change-password" element={<PasswordPage />} />
         <Route path="register" element={<RegisterPage />} />
         <Route path="forgot-password" element={<ForgotPasswordPage />} />
         <Route path="/shop" element={<ProductPage category="all" />} />
@@ -54,8 +62,7 @@ export const AppRoutes = () => (
         <Route path="/nu" element={<ProductPage category="nu" />} />
         <Route path="/phu-kien" element={<ProductPage category="phu-kien" />} />
         <Route path="/voucher" element={<ProductPage category="khuyen-mai" />} />
-        <Route path="/product/:id" element={<ProductDetailPage/>} />
-        
+        <Route path="/product/:id" element={<ProductDetailPage/>} />        
       </Route>
       
       {/* Admin */}
